@@ -40,3 +40,4 @@ var DCMovieData = [
     Movie(movieName: "Man of Steel", movieReleaseDate: 2013, actors: ["Henry Cavill","Amy Adams","Richard Schiff"], rating: 7.0, pgRating: "PG-13")
 
 ]
+
